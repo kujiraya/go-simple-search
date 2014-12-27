@@ -1,0 +1,10 @@
+title = "Model Configuration"
+
+[server]
+host = "localhost"
+port = "3306"
+
+[db]
+name  = "mydb"
+user  = "root"
+table = "aozora"
