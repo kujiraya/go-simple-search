@@ -1,0 +1,55 @@
+body {
+  font-family: 'TitilliumText22LRegular', 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', 'メイリオ', Meiryo, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
+}
+
+.searchForm {
+    margin-bottom: 5px;
+}
+
+#searchButton {
+    border: 1px solid transparent;
+    border-bottom-left-radius: 0;
+    border-top-left-radius: 0;
+    height: 30px;
+    margin: 0;
+    outline: none;
+    padding: 0 0;
+    width: 60px;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    background-color: #4285f4;
+    background-color: -webkit-linear-gradient(top,#4387fd,#4683ea);
+    background-color: linear-gradient(top,#4387fd,#4683ea);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#4387fd,endColorstr=#4683ea,GradientType=1);
+    cursor: pointer;
+    background-repeat: no-repeat;
+    background-position: 5px 8px;
+    background-image: url('http://k.yimg.jp/images/top/sp2/clr/lt/FP10A/1.png');
+}
+
+#searchWord {
+    height: 24px;
+}
+
+#searchButton a{
+    background-repeat: no-repeat;
+    background-position: 38px 10px;
+    background-image: url('http://k.yimg.jp/images/top/sp2/clr/lt/FP10A/1.png');
+}
+
+ul {
+    list-style: none;
+}
+
+.item {
+    border: 1px solid #e1e8ed;
+    padding: 13px 15px 15px;
+    margin: 0px;
+}
+
+.item:hover {
+  border: 1px solid #4387fd;
+}
+[vagran
